@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# 密钥
+secret.txt
